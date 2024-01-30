@@ -1,0 +1,23 @@
+24/01/2024
+ - login page 
+ - home screen design 
+ - meeting till 1 o clock
+ - church directory
+ - 
+25/01/2024
+ - login design (done)
+ - integration login(done)
+ - different login setup
+ - home screen design 
+ - booking screeen design 
+ - splash screen set up 
+ - home screen integration
+ - attendance issue solve(called)
+ - 
+29/01/2024
+ - onLeave
+30/01/2024
+ - peryar detalied page for program booking
+ - peryar booking by rooms and by programs corresponding to
+ - peryar book summary page
+ - 
